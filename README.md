@@ -1,1 +1,0 @@
-# ai-algebraic-chess-server
